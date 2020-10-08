@@ -6,6 +6,6 @@
 - Used both the content-based filtering and collaborative filtering algorithms (KNN) to build book recommendation systems.
 - Evaluated and compared the performance of the different book recommendation systems.
 
-![](https://github.com/ShibiIU/Portfolio/blob/main/images/wordcloud3.png)
+![](https://github.com/ShibiIU/Portfolio/blob/main/images/wordcloud.png)
 
 ![](https://github.com/ShibiIU/Portfolio/blob/main/images/BookRecom.png)
