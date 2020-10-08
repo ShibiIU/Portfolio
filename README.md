@@ -8,13 +8,13 @@
 
 Here is an example output of the recommendation system: 
 
-![](https://github.com/ShibiIU/Portfolio/blob/main/images/BOOKREC.png)
+![](/images/BOOKREC.png)
 
 ## [Project 2: Model Selection for Influenza Infection Outbreaks](https://github.com/ShibiIU/Influenza-Outbreaks)
 -	Employed Approximate Bayesian Computation and sequential Monte Carlo sampling to examine the spread patterns of influenza virus in Tecumseh, MI, and Seattle, WA, from 1975 to 1979.
 -	Found that the different outbreaks of the same strain and the outbreaks of different strains of the influenza virus can not be described by the same model of disease spread. 
 
-![](https://github.com/ShibiIU/Portfolio/blob/main/images/influenza.png)
+![](/images/influenza.png)
 
 ## [Project 3: Domestic Spillovers and Foreign Networks in Exporting](https://ideas.repec.org/p/inu/caeprp/2018005.html)   
 -	Cleaned and matched more than 16 million Colombian and Chilean trade data to construct firm-to-firm measures of the export network.
