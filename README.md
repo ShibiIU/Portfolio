@@ -14,3 +14,4 @@ Here is an example output of the recommendation system:
 -	Employed Approximate Bayesian Computation and sequential Monte Carlo sampling to examine the spread patterns of influenza virus in Tecumseh, MI, and Seattle, WA, from 1975 to 1979.
 -	Found that the different outbreaks of the same strain and the outbreaks of different strains of the influenza virus can not be described by the same model of disease spread. 
 
+![](https://github.com/ShibiIU/Portfolio/blob/main/images/influenza.png)
