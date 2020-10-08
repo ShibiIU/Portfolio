@@ -1,4 +1,4 @@
-# Shibi's Portfolio
+# Portfolio
 
 
 ## [Project 1: Book Recommendation System](https://github.com/ShibiIU/Book-Recommendation-System)
