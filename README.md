@@ -15,3 +15,5 @@ Here is an example output of the recommendation system:
 -	Found that the different outbreaks of the same strain and the outbreaks of different strains of the influenza virus can not be described by the same model of disease spread. 
 
 ![](https://github.com/ShibiIU/Portfolio/blob/main/images/influenza.png)
+
+## [Project 3: Domestic Spillovers and Foreign Networks in Exporting](https://ideas.repec.org/p/inu/caeprp/2018005.html)                                                                 
