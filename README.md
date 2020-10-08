@@ -18,7 +18,7 @@ Here is an example output of the recommendation system:
 
 ## [Project 3: Domestic Spillovers and Foreign Networks in Exporting](https://ideas.repec.org/p/inu/caeprp/2018005.html)   
 -	Cleaned and matched more than 16 million Colombian and Chilean trade data to construct firm-to-firm measures of the export network.
--	Applied Probit and Logit models to quantify the spillover and network effects on firms’ entry into a new market.
+-	Applied Probit and Logit models to quantify the spillover and network effects on exporting firms’ entry into a new foreign market.
 - Wrote a research paper and submitted it to a journal (under review).
 
 
