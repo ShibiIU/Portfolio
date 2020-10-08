@@ -10,4 +10,4 @@ Here is an example output of the recommendation system:
 
 ![](https://github.com/ShibiIU/Portfolio/blob/main/images/BOOKREC.png)
 
-## [Project 2: Model selection for Influenza infection outbreaks](https://github.com/ShibiIU/Influenza-Outbreaks)
+## [Project 2: Model Selection for Influenza Infection Outbreaks](https://github.com/ShibiIU/Influenza-Outbreaks)
