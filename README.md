@@ -22,4 +22,8 @@ Here is an example output of the recommendation system:
 - Wrote a research paper and submitted it to a journal (under review).
 
 ## [Project 4: Firms’ Entry into Foreign Markets: A Network Centrality Analysis](https://drive.google.com/file/d/1D2GoDL6mOkyTix89V4vlW7aMCl_hVLy4/view)
+-	Using international trade data among 176 countries between 2007-2013 to construct a world-trade network. 
+-	Computed various centrality measures and identified the central markets in the international trade. 
+-	Built both theoretical and empirical models to show that exporting firms are more likely to enter foreign countries with high centrality in the world trade network. 
+
 
