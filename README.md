@@ -21,5 +21,5 @@ Here is an example output of the recommendation system:
 -	Applied Probit and Logit models to quantify the spillover and network effects on exporting firms’ entry into a new foreign market.
 - Wrote a research paper and submitted it to a journal (under review).
 
-
+## [Project 4: Firms’ Entry into Foreign Markets: A Network Centrality Analysis](https://drive.google.com/file/d/1D2GoDL6mOkyTix89V4vlW7aMCl_hVLy4/view)
 
