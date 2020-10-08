@@ -9,4 +9,5 @@
 Here is an example output of the recommendation system: 
 
 ![](https://github.com/ShibiIU/Portfolio/blob/main/images/BookRecom.png)
-![](https://github.com/ShibiIU/Portfolio/blob/main/images/wordcloud2.png)
+
+
